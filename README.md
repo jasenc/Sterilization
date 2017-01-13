@@ -1,2 +1,2 @@
 # Sterilization
-- [ ] Something
+- [x] Something
